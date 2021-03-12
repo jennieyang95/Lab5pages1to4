@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Lab5pages1to4"
